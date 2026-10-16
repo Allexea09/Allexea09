@@ -52,6 +52,9 @@ Dynamic, impact-driven **Program Creator and Founder of DVHD**. Proven track rec
 - Priorities: Collaboration, Accountability, and Measurable Outcomes
 ![Budget Scale](https://img.shields.io/badge/Budget-%241.5M%20%7C%203--Year%20Sustainability-success)
 ## Communication Strategy: Partnerships, Sponsorships & Donation Campaigns
+## Project Documentation
+
+- [Project Milestones & Sprint Roadmap](PROJECT_MILESTONES.md)
 
 ![Communication](https://img.shields.io/badge/Strategy-Stakeholder%20Engagement-blue)
 ![Partnerships](https://img.shields.io/badge/Partnerships-Development-green)
