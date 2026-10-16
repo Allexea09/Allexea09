@@ -50,3 +50,4 @@ Dynamic, impact-driven **Program Creator and Founder of DVHD**. Proven track rec
 - Framework: Agile / Hybrid
 - Focus: Program Delivery, Risk Management, and Performance Tracking
 - Priorities: Collaboration, Accountability, and Measurable Outcomes
+![Budget Scale](https://img.shields.io/badge/Budget-%241.5M%20%7C%203--Year%20Sustainability-success)
