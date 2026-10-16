@@ -247,3 +247,116 @@ Formal authorization should be documented by the appropriate project sponsor or 
 **Document Status:** Draft — Pending Formal Review and Approval
 
 **Portfolio Note:** This charter presents a proposed project governance framework. Reported funding, completed deliverables, project status, and measurable outcomes should be supported by appropriate documentation.
+### 9. Monitoring and Controlling
+
+#### Purpose
+
+The Monitoring and Controlling phase establishes procedures for measuring project performance against the approved scope, schedule, budget, quality standards, and program objectives. This phase enables project leadership to identify variances, assess risks, implement corrective actions, and maintain accountability throughout the International STEM Education Program's three-year sustainability planning horizon.
+
+#### Monitoring and Controlling Objectives
+
+- Track project progress against approved milestones and deliverables.
+- Monitor budget performance, funding utilization, and expenditure variances.
+- Evaluate STEM program participation, training delivery, and partnership development.
+- Identify risks, issues, dependencies, and potential schedule delays.
+- Validate deliverables against established acceptance criteria.
+- Implement corrective and preventive actions when performance deviates from approved plans.
+- Maintain accurate project documentation and stakeholder reporting.
+- Support continuous improvement and long-term program sustainability.
+
+#### Key Monitoring Activities
+
+| Monitoring Area | Measurement Method | Review Frequency |
+|---|---|---|
+| Scope Management | Compare completed work against approved scope and deliverables | Monthly |
+| Schedule Management | Review milestones, deadlines, dependencies, and schedule variance | Monthly |
+| Cost Management | Compare actual expenditures against the approved budget | Monthly |
+| Funding Management | Reconcile documented sponsorship commitments, receipts, and available funds | Monthly |
+| Quality Management | Validate educational resources and deliverables against acceptance criteria | At each major deliverable |
+| Program Performance | Review student participation, workshops, training, and partnership activity | Quarterly |
+| Risk Management | Review risk register, mitigation actions, and emerging risks | Monthly |
+| Stakeholder Engagement | Review communications, feedback, decisions, and outstanding action items | Monthly |
+| Sustainability | Evaluate operating requirements, funding outlook, and long-term readiness | Quarterly and annually |
+
+*Review frequencies are proposed and should be adjusted to match program needs, funding requirements, and the approved project plan.*
+
+#### Key Performance Indicators (KPIs)
+
+| KPI | Calculation or Measurement | Target |
+|---|---|---|
+| Milestone Completion Rate | Completed milestones / planned milestones × 100 | To be established |
+| On-Time Delivery Rate | Milestones completed on time / milestones due × 100 | To be established |
+| Budget Variance | Actual expenditure minus approved expenditure budget | Approved tolerance to be established |
+| Budget Utilization | Actual expenditure / approved budget × 100 | Based on approved financial plan |
+| Training Completion Rate | Participants completing training / participants enrolled × 100 | To be established |
+| Partnership Growth | Number of active documented partnerships | To be established |
+| Issue Resolution Rate | Issues resolved / issues due for resolution × 100 | To be established |
+| Risk Response Completion | Mitigation actions completed / mitigation actions due × 100 | To be established |
+
+All KPI results must be based on reliable records. Targets should be approved before actual performance is evaluated.
+
+#### Variance Analysis and Corrective Actions
+
+When project performance deviates from the approved baseline, the project management lead will:
+
+1. Identify and document the variance.
+2. Determine the cause and assess its impact on scope, schedule, budget, quality, or program outcomes.
+3. Evaluate available corrective and preventive actions.
+4. Assign an accountable owner and target resolution date.
+5. Obtain approval for changes that exceed delegated authority or affect approved baselines.
+6. Implement the approved response.
+7. Verify the effectiveness of the action and document the outcome.
+
+Examples of corrective actions include adjusting task sequencing, reallocating approved resources, revising delivery schedules, strengthening outreach, and updating risk mitigation plans.
+
+#### Change Control
+
+Changes affecting approved scope, major deliverables, funding allocations, schedule baselines, or program objectives must be documented and reviewed by the authorized decision-maker before implementation.
+
+Each change request should include:
+
+- Description and reason for the change.
+- Expected benefits and potential consequences.
+- Impact on scope, schedule, budget, quality, and risk.
+- Resource and funding implications.
+- Approval decision and implementation date.
+- Updated project documentation, where applicable.
+
+#### Risk and Issue Escalation
+
+Risks and issues should be recorded in a project register with a description, likelihood, impact, response strategy, accountable owner, and review date.
+
+Issues that threaten funding, critical milestones, participant safety, compliance, or the achievement of approved objectives should be escalated promptly to the appropriate program leadership or governing authority.
+
+#### Reporting and Documentation
+
+The monitoring and controlling process will maintain:
+
+- Monthly project status reports.
+- Budget and expenditure reports.
+- Updated milestone and deliverable trackers.
+- Risk and issue registers.
+- Corrective action and change request logs.
+- KPI and program performance reports.
+- Stakeholder meeting notes and decision records.
+- Periodic sustainability assessments.
+
+Records should be stored securely, retained according to applicable requirements, and used to support accurate stakeholder communication.
+
+#### Success Criteria
+
+The Monitoring and Controlling phase will be considered effective when:
+
+- Project performance is regularly compared with approved baselines.
+- Significant variances are documented and assessed.
+- Risks and issues have assigned owners and response plans.
+- Corrective actions are tracked through resolution.
+- Changes receive appropriate review and authorization.
+- Financial and program reports are supported by verifiable evidence.
+- Leadership has reliable information for informed decision-making.
+
+**Accountability:** Project Management Lead, with support from program leadership, financial management, educators, and relevant stakeholders.
+
+**Status:** Proposed monitoring framework — reporting baselines, targets, tolerances, and review responsibilities to be formally established.
+
+---
