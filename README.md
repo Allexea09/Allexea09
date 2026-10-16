@@ -33,3 +33,20 @@ Dynamic, impact-driven **Program Creator and Founder of DVHD**. Proven track rec
 - 💼 **LinkedIn:** https://[www.linkedin.com/in/allexea-blackwell-9156337b/]
 - ✉️ **Professional Email:** [dvhdinc@gmail.com]
 - 🌐 **Location Preference:** Open to International Relocation & Global Remote Frameworks
+## International STEM Program Director & Nonprofit Founder
+
+![Agile](https://img.shields.io/badge/Agile-Hybrid-blue)
+![Program Management](https://img.shields.io/badge/Program-Management-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+### Core Responsibilities
+- STEM Program Development and Strategic Planning
+- Agile Project Management and Coordination
+- Budget Planning and Resource Allocation
+- Stakeholder Engagement and Partnerships
+- Technology Innovation and Community Development
+
+### Project Management
+- Framework: Agile / Hybrid
+- Focus: Program Delivery, Risk Management, and Performance Tracking
+- Priorities: Collaboration, Accountability, and Measurable Outcomes
